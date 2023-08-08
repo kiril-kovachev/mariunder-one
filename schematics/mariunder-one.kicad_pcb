@@ -3971,8 +3971,6 @@
     )
   )
 
-  (gr_rect (start 43.18 25.4) (end 231.14 96.52)
-    (stroke (width 0.15) (type default)) (fill none) (layer "Eco1.User") (tstamp e3d64f0d-ab8d-4910-8eb4-cbee0a57b8f0))
   (gr_arc (start 231.14 88.9) (mid 228.908154 94.288154) (end 223.52 96.52)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 1147b674-5fc8-4318-bb5f-dbe37c7e9824))
   (gr_line (start 40.64 88.9) (end 40.64 30.48)
