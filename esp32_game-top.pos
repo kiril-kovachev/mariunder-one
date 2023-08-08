@@ -1,0 +1,36 @@
+### Footprint positions - created on 2023 June 25, Sunday 22:51:59 ###
+### Printed by KiCad version 7.0.5-0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                                PosX       PosY       Rot  Side
+C1        100nF                CP_Radial_D4.0mm_P2.00mm                           185.4200   -91.4400    0.0000  top
+C2        4.7u                 CP_Radial_D4.0mm_P2.00mm                           191.0400   -91.4400    0.0000  top
+C3        1u                   CP_Radial_D4.0mm_P2.00mm                            93.4400   -84.3600  180.0000  top
+C4        100nF                CP_Radial_D4.0mm_P2.00mm                            85.8200   -84.3600  180.0000  top
+D1        LED                  LED_D4.0mm                                         175.2600   -30.4800  180.0000  top
+R1        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   226.0600   -45.7200   90.0000  top
+R2        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    78.7400   -48.2600    0.0000  top
+R3        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    63.5000   -58.4200    0.0000  top
+R4        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    73.6600   -83.8200  180.0000  top
+R5        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    49.8510   -72.4400    0.0000  top
+R6        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   179.0700   -43.1800    0.0000  top
+R7        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   191.7700   -43.1800    0.0000  top
+R8        10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   160.0200   -30.4800    0.0000  top
+R9        100K                 R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   173.9900   -83.8200    0.0000  top
+R10       100K                 R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   173.9900   -88.9000    0.0000  top
+R11       10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   226.0600   -52.0700  -90.0000  top
+R12       10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   214.6300   -78.7400  180.0000  top
+R13       10K                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   226.0600   -72.3900   90.0000  top
+SW1       SW_Push_Dual_UP      SW_PUSH-12mm                                        60.9600   -43.1800    0.0000  top
+SW2       SW_Push_Dual_DOWN    SW_PUSH-12mm                                        60.9600   -68.5800    0.0000  top
+SW3       SW_Push_Dual_LEFT    SW_PUSH-12mm                                        45.9200   -55.8800    0.0000  top
+SW4       SW_Push_Dual_RIGHT   SW_PUSH-12mm                                        76.2000   -55.8800    0.0000  top
+SW5       SW_Push_Dual_MENU    SW_PUSH-12mm                                       203.2000   -30.4800    0.0000  top
+SW6       SW_Push_VOLUME       SW_PUSH-12mm                                       185.4200   -30.4800    0.0000  top
+SW7       SW_Push_Dual_SELECT  SW_PUSH-12mm                                       185.4200   -50.8000    0.0000  top
+SW8       SW_Push_Dual_START   SW_PUSH-12mm                                       203.2000   -48.2600    0.0000  top
+SW9       SW_Push_Dual_BTN_B   SW_PUSH-12mm                                       187.9600   -66.0400    0.0000  top
+SW10      SW_Push_Dual_BTN_A   SW_PUSH-12mm                                       205.7400   -63.5000    0.0000  top
+SW11      SW_SPDT              Switch_Angled_5mm                                  199.0900   -93.3500    0.0000  top
+U2        TFT_320x240          TFT-320x240                                         96.6850   -57.2000  -90.0000  top
+## End

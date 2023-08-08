@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "esp32_game-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/esp32_game-eagle-import.kicad_sym")(options "")(descr ""))
+)
