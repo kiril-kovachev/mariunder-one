@@ -6,6 +6,8 @@
 
 [Schematics files](/schematics)
 
+[Firmware](/firmware/firmware.md)
+
 [BOM](/bom/bom.md)
 
 [Case](/case/case.md)
